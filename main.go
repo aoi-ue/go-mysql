@@ -1,7 +1,7 @@
 package main
 
 import (
-	"blog/infrastructure"
+	"db/infrastructure"
 	"net/http"
 
 	"github.com/gin-gonic/gin"

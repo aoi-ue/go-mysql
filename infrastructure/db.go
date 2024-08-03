@@ -32,5 +32,5 @@ func NewDatabase() Database {
 	return Database{
 		DB: db,
 	}
-
+ 
 }
